@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Sessions</RootNamespace>
+    <AssemblyName>Sessions</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Session1.fs" />
+    <Compile Include="Session2.fs" />
+    <Compile Include="Session3.fs" />
+    <Compile Include="Session4.fs" />
+    <Compile Include="Session5.fs" />
+    <Compile Include="Session6.fs" />
+    <Compile Include="Session7.fs" />
+    <Compile Include="Session8.fs" />
+    <Compile Include="Playing with stuff.fs" />
+    <Compile Include="Function signatures.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
